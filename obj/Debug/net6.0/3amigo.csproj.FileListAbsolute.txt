@@ -1,0 +1,15 @@
+/Users/woathatsweerzy/Projects/3amigo/3amigo/bin/Debug/net6.0/3amigo
+/Users/woathatsweerzy/Projects/3amigo/3amigo/bin/Debug/net6.0/3amigo.deps.json
+/Users/woathatsweerzy/Projects/3amigo/3amigo/bin/Debug/net6.0/3amigo.runtimeconfig.json
+/Users/woathatsweerzy/Projects/3amigo/3amigo/bin/Debug/net6.0/3amigo.dll
+/Users/woathatsweerzy/Projects/3amigo/3amigo/bin/Debug/net6.0/3amigo.pdb
+/Users/woathatsweerzy/Projects/3amigo/3amigo/obj/Debug/net6.0/3amigo.csproj.AssemblyReference.cache
+/Users/woathatsweerzy/Projects/3amigo/3amigo/obj/Debug/net6.0/3amigo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/woathatsweerzy/Projects/3amigo/3amigo/obj/Debug/net6.0/3amigo.AssemblyInfoInputs.cache
+/Users/woathatsweerzy/Projects/3amigo/3amigo/obj/Debug/net6.0/3amigo.AssemblyInfo.cs
+/Users/woathatsweerzy/Projects/3amigo/3amigo/obj/Debug/net6.0/3amigo.csproj.CoreCompileInputs.cache
+/Users/woathatsweerzy/Projects/3amigo/3amigo/obj/Debug/net6.0/3amigo.dll
+/Users/woathatsweerzy/Projects/3amigo/3amigo/obj/Debug/net6.0/refint/3amigo.dll
+/Users/woathatsweerzy/Projects/3amigo/3amigo/obj/Debug/net6.0/3amigo.pdb
+/Users/woathatsweerzy/Projects/3amigo/3amigo/obj/Debug/net6.0/3amigo.genruntimeconfig.cache
+/Users/woathatsweerzy/Projects/3amigo/3amigo/obj/Debug/net6.0/ref/3amigo.dll
